@@ -3,6 +3,7 @@ ultralytics
 pandas
 opencv-python-headless
 pillow
-transformers
-torch
-accelerate
+git+https://github.com/ultralytics/CLIP.git
+ftfy
+regex
+tqdm
