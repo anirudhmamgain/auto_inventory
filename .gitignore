@@ -3,7 +3,7 @@ __pycache__/
 *.pyc
 
 # Env
-inventory/
+# inventory/
 venv/
 
 # Mac
